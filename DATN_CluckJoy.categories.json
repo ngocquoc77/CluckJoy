@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "66a9a25fbd317e4670c6d050"
+  },
+  "name": "Gà Rán",
+  "available": true,
+  "createAt": {
+    "$date": "2024-07-31T02:33:03.230Z"
+  },
+  "updateAt": {
+    "$date": "2024-07-31T02:33:03.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a9a26cbd317e4670c6d052"
+  },
+  "name": "Nước",
+  "available": true,
+  "createAt": {
+    "$date": "2024-07-31T02:33:16.058Z"
+  },
+  "updateAt": {
+    "$date": "2024-07-31T02:33:16.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a9a271bd317e4670c6d054"
+  },
+  "name": "Mì",
+  "available": true,
+  "createAt": {
+    "$date": "2024-07-31T02:33:21.502Z"
+  },
+  "updateAt": {
+    "$date": "2024-07-31T02:33:21.502Z"
+  },
+  "__v": 0
+}]

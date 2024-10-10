@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "66a99e71bd317e4670c6d049"
+  },
+  "email": "testuser@example.com",
+  "password": "$2b$10$pWG5yuAwFrmuEzlFWxhjSeIqWKJOfQ2Fji.z1zMksIycL.5gkqAbG",
+  "name": "Test User",
+  "phone": "1234567890",
+  "role": 1,
+  "avatar": "https://example.com/avatar.png",
+  "carts": [],
+  "available": true,
+  "createAt": {
+    "$date": "2024-07-31T02:16:17.328Z"
+  },
+  "updateAt": {
+    "$date": "2024-07-31T02:16:17.328Z"
+  },
+  "__v": 0
+}]

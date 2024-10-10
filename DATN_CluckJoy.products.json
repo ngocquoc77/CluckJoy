@@ -1,0 +1,376 @@
+[{
+  "_id": {
+    "$oid": "66a9a475bd317e4670c6d05f"
+  },
+  "name": "Mì ý sốt kem",
+  "description": "This is a sample product description.",
+  "image": "https://www.sanctuaryconcerts.org/wp-content/uploads/2021/08/cach-lam-my-y-sot-kem-thom-ngon-don-gian-nhat.jpg",
+  "price": 40.000,
+  "size": "Medium",
+  "quantity": 10,
+  "category": {
+    "$oid": "66a9a25fbd317e4670c6d050"
+  },
+  "type": "Electronics",
+  "brand": "SampleBrand",
+  "role": 2,
+  "available": true,
+  "createAt": {
+    "$date": "2024-07-31T02:41:57.217Z"
+  },
+  "updateAt": {
+    "$date": "2024-07-31T02:41:57.217Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a9b8bebd317e4670c6d079"
+  },
+  "name": "Gà sốt chua ngọt Hàn Quốc",
+  "description": "This is a sample product description.",
+  "image": "https://img-global.cpcdn.com/recipes/trbo4qqolb01thg0b93b/1200x630cq70/photo.jpg",
+  "price": 90.000,
+  "size": "Medium",
+  "quantity": 10,
+  "category": {
+    "$oid": "66a9a25fbd317e4670c6d050"
+  },
+  "type": "Electronics",
+  "brand": "SampleBrand",
+  "role": 2,
+  "available": true,
+  "createAt": {
+    "$date": "2024-07-31T04:08:30.346Z"
+  },
+  "updateAt": {
+    "$date": "2024-07-31T04:08:30.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a9b8fabd317e4670c6d07b"
+  },
+  "name": "Gà sốt cay",
+  "description": "This is a sample product description.",
+  "image": "https://media.vietq.vn/files/ctvlehoa/2018/07/15/ga-sot-cay.2jpg.jpg",
+  "price": 55.000,
+  "size": "Medium",
+  "quantity": 10,
+  "category": {
+    "$oid": "66a9a25fbd317e4670c6d050"
+  },
+  "type": "Electronics",
+  "brand": "SampleBrand",
+  "role": 2,
+  "available": true,
+  "createAt": {
+    "$date": "2024-07-31T04:09:30.164Z"
+  },
+  "updateAt": {
+    "$date": "2024-07-31T04:09:30.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a9b90bbd317e4670c6d07d"
+  },
+  "name": "Nước ép dứa sơ ri",
+  "description": "This is a sample product description.",
+  "image": "https://beautylife.com.vn/wp-content/uploads/2023/08/Nuoc-ep_1.jpg",
+  "price": 35.000,
+  "size": "Medium",
+  "quantity": 10,
+  "category": {
+    "$oid": "66a9a25fbd317e4670c6d050"
+  },
+  "type": "Electronics",
+  "brand": "SampleBrand",
+  "role": 2,
+  "available": true,
+  "createAt": {
+    "$date": "2024-07-31T04:09:47.189Z"
+  },
+  "updateAt": {
+    "$date": "2024-07-31T04:09:47.189Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a9ba10bd317e4670c6d080"
+  },
+  "name": "Coca cola",
+  "description": "This is a sample product description.",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/792193.jpg",
+  "price": 25.000,
+  "size": "Medium",
+  "quantity": 10,
+  "category": {
+    "$oid": "66a9a25fbd317e4670c6d050"
+  },
+  "type": "Electronics",
+  "brand": "SampleBrand",
+  "role": 2,
+  "available": true,
+  "createAt": {
+    "$date": "2024-07-31T04:14:08.207Z"
+  },
+  "updateAt": {
+    "$date": "2024-07-31T04:14:08.207Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a9ba7bbd317e4670c6d082"
+  },
+  "name": "Mì ý sốt bò băm",
+  "description": "This is a sample product description.",
+  "image": "https://cdn.pastaxi-manager.onepas.vn/content/uploads/articles/anhntn/New%20folder%20(12)/cach-lam-mi-y-sot-bo-bam-1.jpg",
+  "price": 55.000,
+  "size": "Medium",
+  "quantity": 10,
+  "category": {
+    "$oid": "66a9a25fbd317e4670c6d050"
+  },
+  "type": "Electronics",
+  "brand": "SampleBrand",
+  "role": 2,
+  "available": true,
+  "createAt": {
+    "$date": "2024-07-31T04:15:55.144Z"
+  },
+  "updateAt": {
+    "$date": "2024-07-31T04:15:55.144Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a9bc18bd317e4670c6d085"
+  },
+  "name": "Combo gà + khoai tây",
+  "description": "This is a sample product description.",
+  "image": "https://hdq.com.vn/wp-content/uploads/2020/12/top-4-thuong-hieu-ga-ran-duoc-danh-gia-la-tuyet-nhat-the-gioi-photo-1-15499679002321870720958.jpg",
+  "price": 60.000,
+  "size": "Medium",
+  "quantity": 10,
+  "category": {
+    "$oid": "66a9a25fbd317e4670c6d050"
+  },
+  "type": "Electronics",
+  "brand": "SampleBrand",
+  "role": 2,
+  "available": true,
+  "createAt": {
+    "$date": "2024-07-31T04:22:48.356Z"
+  },
+  "updateAt": {
+    "$date": "2024-07-31T04:22:48.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a9bc3dbd317e4670c6d087"
+  },
+  "name": "Combo gà + nước",
+  "description": "This is a sample product description.",
+  "image": "https://img5.thuthuatphanmem.vn/uploads/2021/12/14/hinh-anh-ga-ran-cuc-dep_024410162.jpg",
+  "price": 55.000,
+  "size": "Medium",
+  "quantity": 10,
+  "category": {
+    "$oid": "66a9a25fbd317e4670c6d050"
+  },
+  "type": "Electronics",
+  "brand": "SampleBrand",
+  "role": 2,
+  "available": true,
+  "createAt": {
+    "$date": "2024-07-31T04:23:25.815Z"
+  },
+  "updateAt": {
+    "$date": "2024-07-31T04:23:25.815Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a9bc60bd317e4670c6d089"
+  },
+  "name": "Gà sốt me",
+  "description": "This is a sample product description.",
+  "image": "https://cdn.tgdd.vn/Files/2018/12/18/1138838/cung-thuc-hien-mon-ga-cay-han-quoc-cuc-ky-dua-com-202209051440260841.jpg",
+  "price": 60.000,
+  "size": "Medium",
+  "quantity": 10,
+  "category": {
+    "$oid": "66a9a25fbd317e4670c6d050"
+  },
+  "type": "Electronics",
+  "brand": "SampleBrand",
+  "role": 2,
+  "available": true,
+  "createAt": {
+    "$date": "2024-07-31T04:24:00.211Z"
+  },
+  "updateAt": {
+    "$date": "2024-07-31T04:24:00.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a9bc88bd317e4670c6d08b"
+  },
+  "name": "Gà rán CluckJoy ",
+  "description": "This is a sample product description.",
+  "image": "https://demoda.vn/wp-content/uploads/2022/01/anh-ga-ran.jpg",
+  "price": 45.000,
+  "size": "Medium",
+  "quantity": 10,
+  "category": {
+    "$oid": "66a9a25fbd317e4670c6d050"
+  },
+  "type": "Electronics",
+  "brand": "SampleBrand",
+  "role": 2,
+  "available": true,
+  "createAt": {
+    "$date": "2024-07-31T04:24:40.876Z"
+  },
+  "updateAt": {
+    "$date": "2024-07-31T04:24:40.876Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a9bcabbd317e4670c6d08d"
+  },
+  "name": "7UPL",
+  "description": "This is a sample product description.",
+  "image": "https://www.millerfoodservice.co.uk/media/catalog/product/cache/e70602422d911f0edb0b0d50a9ac95bc/7/d/7dde9d58b32f70463e6009990a0c9b80.jpg",
+  "price": 25.000,
+  "size": "Medium",
+  "quantity": 10,
+  "category": {
+    "$oid": "66a9a25fbd317e4670c6d050"
+  },
+  "type": "Electronics",
+  "brand": "SampleBrand",
+  "role": 2,
+  "available": true,
+  "createAt": {
+    "$date": "2024-07-31T04:25:15.989Z"
+  },
+  "updateAt": {
+    "$date": "2024-07-31T04:25:15.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a9bcd0bd317e4670c6d08f"
+  },
+  "name": "Mì ý sốt phô mai",
+  "description": "This is a sample product description.",
+  "image": "https://img-global.cpcdn.com/recipes/1932a3004bfeb0be/1200x630cq70/photo.jpg",
+  "price": 45.000,
+  "size": "Medium",
+  "quantity": 10,
+  "category": {
+    "$oid": "66a9a25fbd317e4670c6d050"
+  },
+  "type": "Electronics",
+  "brand": "SampleBrand",
+  "role": 2,
+  "available": true,
+  "createAt": {
+    "$date": "2024-07-31T04:25:52.297Z"
+  },
+  "updateAt": {
+    "$date": "2024-07-31T04:25:52.297Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a9bd02bd317e4670c6d091"
+  },
+  "name": "Nước Fanta",
+  "description": "This is a sample product description.",
+  "image": "https://product.hstatic.net/200000352097/product/8935049501589_424b1fa461374f8b82992ac33df0b864_1024x1024.jpg",
+  "price": 25.000,
+  "size": "Medium",
+  "quantity": 10,
+  "category": {
+    "$oid": "66a9a25fbd317e4670c6d050"
+  },
+  "type": "Electronics",
+  "brand": "SampleBrand",
+  "role": 2,
+  "available": true,
+  "createAt": {
+    "$date": "2024-07-31T04:26:42.981Z"
+  },
+  "updateAt": {
+    "$date": "2024-07-31T04:26:42.981Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a9bd23bd317e4670c6d093"
+  },
+  "name": "Nước ép Lựu",
+  "description": "This is a sample product description.",
+  "image": "https://trangvangnongnghiep.net/wp-content/uploads/2021/02/nuoc-ep-luu-nguyen-chat-min.jpg",
+  "price": 35.000,
+  "size": "Medium",
+  "quantity": 10,
+  "category": {
+    "$oid": "66a9a25fbd317e4670c6d050"
+  },
+  "type": "Electronics",
+  "brand": "SampleBrand",
+  "role": 2,
+  "available": true,
+  "createAt": {
+    "$date": "2024-07-31T04:27:15.076Z"
+  },
+  "updateAt": {
+    "$date": "2024-07-31T04:27:15.076Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a9bd40bd317e4670c6d095"
+  },
+  "name": "Mì ý sốt kem sữa tươi",
+  "description": "This is a sample product description.",
+  "image": "https://image-us.eva.vn/upload/3-2021/images/2021-07-02/1625199959-239-thumbnail-width640height480_schema_article.jpg",
+  "price": 55.000,
+  "size": "Medium",
+  "quantity": 10,
+  "category": {
+    "$oid": "66a9a25fbd317e4670c6d050"
+  },
+  "type": "Electronics",
+  "brand": "SampleBrand",
+  "role": 2,
+  "available": true,
+  "createAt": {
+    "$date": "2024-07-31T04:27:44.502Z"
+  },
+  "updateAt": {
+    "$date": "2024-07-31T04:27:44.502Z"
+  },
+  "__v": 0
+}
+]
